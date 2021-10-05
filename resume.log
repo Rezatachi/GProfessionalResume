@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=latex 2021.9.1)  27 SEP 2021 13:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=latex 2021.9.1)  4 OCT 2021 23:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -306,21 +306,21 @@ LaTeX Info: Redefining \nameref on input line 121.
 Package hyperref Warning: Rerun to get /PageLabels entry.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 128.
+(Font)              <10.95> on input line 131.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 128.
+(Font)              <8> on input line 131.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 128.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 12
-8.
+(Font)              <6> on input line 131.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 13
+1.
 (/usr/share/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-./resume.tex:135: Illegal unit of measure (pt inserted).
+./resume.tex:138: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.135 \header{Education}
-                        
+l.138   \header{Education}
+                          
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -328,11 +328,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:135: Illegal unit of measure (pt inserted).
+./resume.tex:138: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.135 \header{Education}
-                        
+l.138   \header{Education}
+                          
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -340,35 +340,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:137: Illegal unit of measure (pt inserted).
+./resume.tex:140: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.137 \begin{body}
-                  
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-./resume.tex:149: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.149 \header{Skills}
-                     
-Dimensions can be in units of em, ex, in, pt, pc,
-cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
-I'll assume that you meant to say pt, for printer's points.
-To recover gracefully from this error, it's best to
-delete the erroneous units; e.g., type `2' to delete
-two letters. (See Chapter 27 of The TeXbook.)
-
-./resume.tex:149: Illegal unit of measure (pt inserted).
-<to be read again> 
-                   \relax 
-l.149 \header{Skills}
-                     
+l.140   \begin{body}
+                    
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -379,8 +355,8 @@ two letters. (See Chapter 27 of The TeXbook.)
 ./resume.tex:152: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.152 \begin{body}
-                  
+l.152   \header{Skills}
+                       
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -388,11 +364,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:164: Illegal unit of measure (pt inserted).
+./resume.tex:152: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.164 \header{Experience}
-                         
+l.152   \header{Skills}
+                       
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -400,11 +376,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:164: Illegal unit of measure (pt inserted).
+./resume.tex:155: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.164 \header{Experience}
-                         
+l.155   \begin{body}
+                    
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -412,11 +388,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:166: Illegal unit of measure (pt inserted).
+./resume.tex:165: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.166 \begin{body}
-                  
+l.165   \header{Experience}
+                           
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -424,11 +400,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:172: Illegal unit of measure (pt inserted).
+./resume.tex:165: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.172   }
-         
+l.165   \header{Experience}
+                           
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -436,11 +412,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:177: Illegal unit of measure (pt inserted).
+./resume.tex:168: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.177   }
-         
+l.168   \begin{body}
+                    
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -448,11 +424,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:189: Illegal unit of measure (pt inserted).
+./resume.tex:174: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.189 \header{Awards and Honors}
-                                
+l.174     }
+           
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -460,11 +436,58 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:189: Illegal unit of measure (pt inserted).
+./resume.tex:174: Undefined control sequence.
+<argument>  The FSRI program \text 
+                                   {consisted of four weeks of intensive mat...
+l.174     }
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./resume.tex:178: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.189 \header{Awards and Honors}
-                                
+l.178 ...oogle employees and community leaders.  }
+                                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./resume.tex:186: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.186    \header{Projects}
+                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./resume.tex:186: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.186    \header{Projects}
+                          
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./resume.tex:188: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.188    \begin{body}
+                     
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -475,8 +498,8 @@ two letters. (See Chapter 27 of The TeXbook.)
 ./resume.tex:191: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.191 \begin{body}
-                  
+l.191 ...s the recipe finder based on user input.}
+                                                  
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -484,11 +507,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:203: Illegal unit of measure (pt inserted).
+./resume.tex:198: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.203 \header{Activities}
-                         
+l.198   \header{Awards and Honors}
+                                  
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -496,11 +519,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:203: Illegal unit of measure (pt inserted).
+./resume.tex:198: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.203 \header{Activities}
-                         
+l.198   \header{Awards and Honors}
+                                  
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -508,11 +531,11 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:205: Illegal unit of measure (pt inserted).
+./resume.tex:200: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.205 \begin{body}
-                  
+l.200   \begin{body}
+                    
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -520,11 +543,47 @@ To recover gracefully from this error, it's best to
 delete the erroneous units; e.g., type `2' to delete
 two letters. (See Chapter 27 of The TeXbook.)
 
-./resume.tex:208: Illegal unit of measure (pt inserted).
+./resume.tex:210: Illegal unit of measure (pt inserted).
 <to be read again> 
                    \relax 
-l.208 	\jobdescription { }
-                          
+l.210   \header{Activities}
+                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./resume.tex:210: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.210   \header{Activities}
+                           
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./resume.tex:212: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.212   \begin{body}
+                    
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+./resume.tex:215: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \relax 
+l.215         \jobdescription { }
+                                 
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
 I'll assume that you meant to say pt, for printer's points.
@@ -552,10 +611,10 @@ Package rerunfilecheck Info: Checksums for `resume.out':
 Here is how much of TeX's memory you used:
  8430 strings out of 478995
  123046 string characters out of 5864778
- 437163 words of memory out of 5000000
+ 440163 words of memory out of 5000000
  25831 multiletter control sequences out of 15000+600000
  408406 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,11n,80p,847b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 76i,11n,80p,887b,328s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.dvi (1 page, 6676 bytes).
+Output written on resume.dvi (1 page, 7476 bytes).
